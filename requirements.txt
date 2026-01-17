@@ -1,0 +1,11 @@
+# WiFi Password Retriever - Requirements
+
+# This project uses only Python standard library modules
+# No external dependencies are required
+
+# Minimum Python version: 3.6+
+
+# Standard library modules used:
+# - subprocess (for running netsh commands)
+# - re (for regex pattern matching)
+# - sys (for command-line arguments)
